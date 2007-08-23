@@ -1,4 +1,4 @@
-%define release %mkrel 6
+%define release %mkrel 7
 %define version 0.17
 %define url ftp://ftp.uk.linux.org/pub/linux/Networking/netkit/
 
