@@ -2,7 +2,7 @@
 %define version 0.17
 %define url ftp://ftp.uk.linux.org/pub/linux/Networking/netkit/
 
-Summary: A mail checker client and comsat mail checking server.
+Summary: A mail checker client and comsat mail checking server
 Name: comsat
 Version: %{version}
 Release: %{release}
