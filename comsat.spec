@@ -15,6 +15,7 @@ URL: http://freshmeat.net/projects/netkit/
 Obsoletes: biff
 Provides: biff
 Requires: xinetd
+BuildRoot: %{_tmppath}/%{name}-buildroot
 
 %description
 The biff client and comsat server are an antiquated method of
