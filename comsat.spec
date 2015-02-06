@@ -3,7 +3,7 @@
 Summary:	A mail checker client and comsat mail checking server
 Name:		comsat
 Version:	0.17
-Release:	12
+Release:	13
 License:	BSD
 Group:		Networking/Mail
 Url:		http://freshmeat.net/projects/netkit/
