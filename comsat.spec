@@ -6,7 +6,7 @@ Version:	0.17
 Release:	13
 License:	BSD
 Group:		Networking/Mail
-Url:		http://freshmeat.net/projects/netkit/
+Url:		https://freshmeat.net/projects/netkit/
 Source0:	ftp://ftp.uk.linux.org/pub/linux/Networking/netkit/biff+comsat-%{version}.tar.bz2
 Source1:	%{name}-xinetd
 Patch0:		biff+comsat-0.10-nobr.patch
