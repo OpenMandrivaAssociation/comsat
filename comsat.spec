@@ -14,6 +14,7 @@ Patch1:		biff+comsat-0.17-no-strip.patch
 Requires:	xinetd
 Provides:	biff = %{EVRD}
 
+BuildRequires:	make
 %description
 The biff client and comsat server are an antiquated method of
 asynchronous mail notification.  Although they are still supported, most
